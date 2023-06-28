@@ -14,3 +14,6 @@
 ///        Intended for debug or for the local optimization of analysis on small samples.
 ///        In this file are defined and filled the output tables
 ///
+/// \author Nicolo' Jacazio <nicolo.jacazio@cern.
+asdfasdfasdfasd
+ch>, vira García <tavira-garcia@ijclab.in2p3.fr>, IJCLab
